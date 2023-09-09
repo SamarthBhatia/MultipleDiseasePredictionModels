@@ -12,9 +12,9 @@ from streamlit_option_menu import option_menu
 
 #loading the saved models
 
-diabetes_model=pickle.load(open('C:/Users/samar/OneDrive/Desktop/Multiple Disease Prediction/saved-models/diabetes_model.sav','rb'))
-heart_disease_model=pickle.load(open('C:/Users/samar/OneDrive/Desktop/Multiple Disease Prediction/saved-models/heartdisease.sav','rb'))
-parkinsons_model=pickle.load(open('C:/Users/samar/OneDrive/Desktop/Multiple Disease Prediction/saved-models/parkinsons_model.sav','rb'))
+diabetes_model=pickle.load(open('C:/Users/samar/OneDrive/Desktop/DiseasePred/diabetes_model.sav','rb'))
+heart_disease_model=pickle.load(open('C:/Users/samar/OneDrive/Desktop/DiseasePred/heartdisease.sav','rb'))
+parkinsons_model=pickle.load(open('C:/Users/samar/OneDrive/Desktop/DiseasePred/parkinsons_model.sav','rb'))
 
 
 with st.sidebar:
