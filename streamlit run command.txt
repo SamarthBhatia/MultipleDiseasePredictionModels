@@ -1,1 +1,1 @@
-streamlit run "C:\Users\samar\OneDrive\Desktop\Multiple Disease Prediction\multiple_disease_pred.py"
+streamlit run "C:\Users\samar\OneDrive\Desktop\DiseasePred\multiple_disease_pred.py"
